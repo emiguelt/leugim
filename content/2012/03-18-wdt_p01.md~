@@ -1,0 +1,55 @@
+---
+kind: article
+title: Resumen de Stripes
+created_at: 2011/04/25
+excerpt: Resumen de Desarrollo Web (Stripes)
+tags: [stripes, wdt, web, java, maven]
+---
+
+Este es un resumen del material para desarrollo de aplicaciones web usando Stripes. 
+Durante el resumen, va a ser implementado un administrador de tareas (ToDo list). 
+
+Son utilizadas las siguientes herramientas:
+
+- Maven 2: Sistema de construcción y administrador de dependencias
+- Stripes: Framework para desarrollo de aplicaciones Web usando MVC (Model-View-Controller)
+- Eclipse: IDE
+- JDK: Entorno de Desarrollo de Java
+- GitHub: Repositorio de código para Git
+
+#### Se asume que el lector ya ha instalado maven, eclipse, java y git.
+
+## Stripes
+Stripes es un framework MVC para el desarrollo de aplicaciones Web para Java.
+
+### Configuración de Stripes
+__*Tag en Git: WDT-P01*__
+
+Para integrar Stripes en una aplicación web, es necesario modificar el archivo *web.xml* con la siguiente información:
+
+ * Declaración del filtro de Stripes: `net.sourceforge.stripes.controller.StripesFilter`.
+ * Establecer en que paquete se encuentran los *ActionBeans* (`ActionResolver.Packages`).
+ * Declaracion de `net.sourceforge.stripes.controller.DispatcherServlet`.
+ * Configuración del filtro para interceptar todos los requests que van a travez del dispatcher.
+ * Mapeamento del patron de las URLs para ser capturadas por Stripes (Ej: .action)
+
+### ActionBeans
+Un _ActionBean_ es una clase que implementa la interfaz _ActionBean_, esta clase define los metodos (eventos, _event handler_) disponibles para procesamiento de los requerimientos (requests) de los usuarios. 
+    public interface ActionBean {
+      public void setContext(ActionBeanContext context);
+      public ActionBeanContext getContext();
+    }
+
+
+## Stripes - Validación
+__Tag en Git: WDT-P02__
+
+Para realizar validaciones de formularios se hace uso de _Anotaciones_ en los _ActionBeans_. Sintaxis básica:
+
+ * *@Validate(required=true, OTRAS RESTRICCIONES)*: esta anotación se coloca en el atributo o método que se quiere validar
+ * *@ValidateNestedProperties({@Validate(field=xxx, Restricción),...)*: Anotación para realizar validaciones en atributos de objetos en el _ActionBean_, por ejemplo _Persona.edad_
+ * *@Validate(expression=${REGEX})*: Permite validación con expresiones regulares
+ * *@DontValidate*: Anotación para evitar la validación en un evento (Event handler)
+ * *@Validate(on="handler")*: Restringe la validación al método referenciado en el parametro *on*.
+ * *@ValidationMethod(on={handlers})*: Anota un método como validador para uno o mas *handlers*. El método debe ser publico y debe recibir *ValidationErrors* o ningún parametro.
+ * Interceptar Errores de Validación. Si el _ActionBean_ implementa la *Interface ValidationErrorHandler* es posible interceptar la validación de errores, para eliminar, adicionar o modificar errores

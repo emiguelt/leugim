@@ -1,0 +1,103 @@
+---
+kind: article
+title: Resumen Spring
+created_at: 2012/04/08
+excerpt: Resumen del Framework Spring
+tags: [spring, wdt, web, java]
+---
+
+Este es un resumen del framework de desarrollo Java (principalmente Web) Spring, basado en el libro <a href="http://www.manning.com/walls4/" target="_blank">Spring in Action, Third Edition</a>
+
+# Spring
+Framework de desarrollo Java que ofrece _Dependency Injection_, _Aspect Oriented Programming_ y _Templates_. 
+
+ * Inyección de Dependencias (DI): Configuración automático de dependencias de una clase.
+ * Programación Orientada a Aspectos: Adición de funcionalidades comunes a lo largo de un sistema (ej. Sistema de Logging).
+ * Plantillas: Permiten reautilizar código y reducir escribir funciones repetitivas.
+
+Spring administra clases en un sistema por medio de un _Container_, en este contenedor se encuentras todas las referencias de los objetos administrados por Spring. Hay dos tipos de contenedores, los _BeanFactories_, para inyección de dependencia, y _ApplicationContexts_, que incluyen DI ademas de otros servicios Event Listeners, interceptors, etc.  
+
+_ApplicationContexts_ relevantes en Spring:
+
+ * ClassPathApplicationContext: en classpath
+ * FileSystemApplicationContext: en el sistema de archivos
+ * XmlWebApplicationContext: para aplicaciones web
+
+## Ciclo de vida de un Bean
+Un Bean es una clase POJO administrada por Spring. 
+
+Ciclo de vida:
+
+ * Instantiate
+ * PopulateProperties
+ * BeanNameAware's setBeanName
+ * BeanFactoryAware's setBeanFactory
+ * ApplicationContextAware's setApplicationContext
+ * Pre-initialization BeanPostProcessors
+ * InitializatingBean's afterPropertiesSet
+ * Call custom init method
+ * Post-initialization BeanPostProcessors
+ *  **BEAN READY TO USE**
+ * Container is shutdown
+ * DisposableBean's destroy
+ * Call custom destroy method
+
+
+## Configuración de Beans
+### Constructor injection
+    <bean id="beanId1" class="package.Class">
+      <constructor-arg value="10"/>
+      <constructor-arg ref="beanId2"/>
+    </bean>
+    ...
+    <bean id="beanId2" class="package.Class2"/>
+### Factory Method injection
+    <bean id="beanId1" class="package.Class" factory-method="getInstance"/>
+
+**Nota**: Bean son Singleton por default, el atributo _prototype_ se utiliza para sobreescribir este patrón. Opciones posibles: singleton, prototypee, request, session, global-session.
+
+### Init/Destroy beans
+    <bean id="beanId1" class="package.Class"
+    init-method="methodWhenInit" destroy-method="methodWhenDestroy"/>
+
+ * Otro método para inicializar o finalizar un bean es implementando las interfaces _InitializingBean y DisposableBean_.
+ * También se puede configurar un método default para inicializar y finalizar de forma global configurando _default-init-method_ y _default_destroy_method_ como atributos del tag _beans_.
+
+### Properties injection
+    <bean id="beanId1" class="package.Class">
+      <property name="property1" value="10"/>
+      <property name="property2" ref="beanId2"/>
+    </bean>
+    ...
+    <bean id="beanId2" class="package.Class2"/>
+### Inner beans
+    <bean id="beanId1" class="package.Class">
+      <property name="property2">
+        <bean class="package.Class2"/>
+      </property>
+    </bean>
+
+Funciona igual para `contructor-arg`
+### Wiring Collections
+#### List, sets, arrays
+    <bean id="beanId1" class="package.Class">
+      <property name="mycollection">
+        <list>
+          <ref bean="beanId2"/>
+          <ref bean="beanId3"/>
+          <ref bean="beanId4"/>
+        </list>
+      </property>
+    </bean>
+#### Maps, Props
+    <bean id="beanId1" class="package.Class">
+      <property name="mycollection">
+        <map>
+          <entry key="aKey" value="aValue"/>
+          <entry key-ref="keyBean" value-ref="beanId3"/>
+          <entry key="aKey" value-ref="beanId2"/>
+        </list>
+      </property>
+    </bean>
+### Wiring to NULL
+    <property name="thisPropNull"><null/></property>
