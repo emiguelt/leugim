@@ -9,8 +9,8 @@ clean:
 
 deploy: clean	co
 	cp -r $(OUTPUT)/* ../emiguelt/
-	cd ../emiguelt/
-	echo $(COMMENT)
-	git add .
-	git commit -m "$(COMMENT)"
+	cd ../emiguelt/;\
+	echo $(COMMENT);\
+	git add .;\
+	git commit -m "$(COMMENT)";\
 	git push origin master
