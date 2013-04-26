@@ -12,5 +12,5 @@ deploy: clean	co
 	cd ../emiguelt/
 	echo $(COMMENT)
 	git add .
-	git commit -m $(COMMENT)
+	git commit -m "$(COMMENT)"
 	git push origin master
