@@ -46,9 +46,9 @@ I speak Spanish (native), Portuguese (Celpe Intermediate-Higher level) and Engli
 * Web Intelligence, User segmentation, recommendations, etc.
 
 ## Employment History
-* (Mar 2012 - Now) Software developer at <a href='http://www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
+* (Mar 2012 - Now) - Software developer at <a href='http://www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
 * (Oct 2011 - Fev 2012) - Developer at Maritaca Project (UNIFESP). A telehealth system for the Family-Health program of the Brazilian Government.
-* (Ago 2011 - Sep 2011) - Developer at <a href='http://www.organia.com.br' targe='_blank'>Organia</a>. Working on Multimedia software based in Qt/C++.
+* (Ago 2011 - Sep 2011) - Developer at <a href='http://www.organia.com.br' target='_blank'>Organia</a>. Working on Multimedia software based in Qt/C++.
 * (Jan 2009 - Jul 2011) - Developer and researcher  at the <a href='http://ccsl.ime.usp.br/borboleta' target='_blank'>Borboleta project</a>, a telehealth system for mobile devices. 
 * (Jan 2007 - Dec 2008) - Developer engineer in the Telehealth Center at the National University of Colombia. My participation was mainly in the development of a medical image management system, implementation of a eLearning platform based in Sakai, and the development of a telecare system for remote areas.
 
