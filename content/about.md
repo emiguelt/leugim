@@ -43,13 +43,14 @@ I speak Spanish (native), Portuguese (Celpe Intermediate-Higher level) and Engli
 * Javascript
 * Agile methodologies
 * Lean approach
+* Web Intelligence, User segmentation, recommendations, etc.
 
 ## Employment History
-* (Mar 2012 - Now) Software developer at <a href='www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
+* (Mar 2012 - Now) Software developer at <a href='http://www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
 * (Oct 2011 - Fev 2012) - Developer at Maritaca Project (UNIFESP). A telehealth system for the Family-Health program of the Brazilian Government.
-* (Ago 2011 - Sep 2011) - Developer at Organia (www.organia.com.br). Working on Multimedia software based in Qt/C++.
-* (Jan 2009 - Jul 2011) - I worked as developer and researcher  in the <a href='http://ccsl.ime.usp.br/borboleta' target='_blank'>Borboleta project</a>, a telehealth system for mobile devices. 
-* (Jan 2007 - Dec 2008) - I worked as developer engineer in the Telehealth Center at the National University of Colombia. My participation was mainly in the development of a medical image management system, implementation of a eLearning platform based in Sakai, and the development of a telecare system for remote areas.
+* (Ago 2011 - Sep 2011) - Developer at <a href='http://www.organia.com.br' targe='_blank'>Organia</a>. Working on Multimedia software based in Qt/C++.
+* (Jan 2009 - Jul 2011) - Developer and researcher  at the <a href='http://ccsl.ime.usp.br/borboleta' target='_blank'>Borboleta project</a>, a telehealth system for mobile devices. 
+* (Jan 2007 - Dec 2008) - Developer engineer in the Telehealth Center at the National University of Colombia. My participation was mainly in the development of a medical image management system, implementation of a eLearning platform based in Sakai, and the development of a telecare system for remote areas.
 
 ## Working Experience
 ### Operating Systems
@@ -57,10 +58,11 @@ __GNU Linux__ (My preference, currently: Ubuntu), Windows (If anymore)
 ### Software development (Currently)
 * Programming Languages: Java, Scala (just starting =) ), Javascript 
 * Data: PostgreSQL, CouchBase
-* Web: Spring Framework, Stripes (a Spring-MVC-like framework), Jsp, jQuery, Jade, Bootstrap
+* Web: Spring Framework, Stripes (a Spring-MVC-like framework), Jsp, jQuery, Jade, Bootstrap, Play Framework
 * Tools: Eclipse, Vim
 * Scripting: Bash
 * Methodologies: eXtreme Programming, TDD (I'm trying! =) )
+* Platforms: Solr, EasyRec
 
 ### In the past I worked with:
 * C, C++, Qt,  Smalltalk
