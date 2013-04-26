@@ -14,6 +14,7 @@ compile '/assets/css/*/' do
 end
 
 compile '*' do
+
   # item[:extension] returns 'html.erb' for multi-dotted filename
   ext = item[:extension].nil? ? nil : item[:extension].split('.').last
 
@@ -29,9 +30,10 @@ compile '*' do
   end
 
   # use layouts with .html extension or layout specified in meta
-  item[:layout] = "none" unless item[:layout] || File.extname(route_path(item)) == '.html' 
+  
+  itemTmp = "none" unless item[:layout] || File.extname(route_path(item)) == '.html' 
 
-  layout 'default' unless item[:layout] == "none"
+  layout 'default' unless itemTmp == "none"
 end
 
 route '/assets/css/*/' do

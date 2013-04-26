@@ -2,7 +2,7 @@
 ---
 :ruby
   # may be set by partials
-  @config[:include_disqus_js] = false
+  #@myconfig[:include_disqus_js] = false
 
   def keywords
     if is_front_page?
@@ -64,7 +64,7 @@
       .clear
 
     -# disqus: inserts number of commments     
-    - if @config[:include_disqus_js] == true
+    - if disqus_shortname
       :javascript
         (function() {
           var links = document.getElementsByTagName('a');
