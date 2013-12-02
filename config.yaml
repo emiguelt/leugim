@@ -12,11 +12,11 @@ data_sources:
 #   % rake deploy:rsync
 deploy:
   default:
-    dst: "www.emtg.net78.net"
+    dst: "leugim.co"
     options: ['-ave ssh', '--exclude=.DS_Store', '--exclude=*~']
 
 # domain to which this site is deployed
-base_url: http://www.emtg.net78.net
+base_url: http://leugim.co
 
 google_analytics:
   domain: 
