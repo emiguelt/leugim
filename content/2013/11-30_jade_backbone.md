@@ -4,10 +4,11 @@ title: Jade, Backbone.js and Require.js, a running example
 created_at: 2013/11/30
 excerpt: This is an example of Jade (runtime) integration with Backbone.js with RequireJS
 tags: [jade, backbone.js, require.js, jade-amd, runtime.js, client-side]
+
 publish: true
 ---
 
-I like a lot <a href='http://jade-lang.com/' target='_blank'>Jade</a> for HTML templating. Currently I'm learning Backbone.js, so after a couple of examples I wanted to use Jade for HTML generation as well as HTML template engine in the client-side. During my searching I didn't found a concrete example using the three technologies (Jade, Backbone and Require), so with this post I want to give some clues to use them successfully.
+I like <a href='http://jade-lang.com/' target='_blank'>Jade</a> a lot for HTML templating. Currently I'm learning Backbone.js, so after a couple of examples I wanted to use Jade for HTML generation as well as HTML template engine in the client-side. During my searching I didn't found a concrete example using the three technologies (Jade, Backbone and Require), so with this post I want to give some clues to use them successfully.
 
 ## The example
 
