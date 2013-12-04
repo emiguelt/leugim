@@ -19,8 +19,8 @@ deploy:
 base_url: http://leugim.co
 
 google_analytics:
-  domain: 
-  site_id: 
+  domain: leugim.co
+  site_id: UA-46201600-1
 
 # currently used by logo
 site_name: Miguel Triana - site
