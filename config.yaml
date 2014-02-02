@@ -12,14 +12,14 @@ data_sources:
 #   % rake deploy:rsync
 deploy:
   default:
-    dst: "leugim.co"
+    dst: "emiguelt.github.com"
     options: ['-ave ssh', '--exclude=.DS_Store', '--exclude=*~']
 
 # domain to which this site is deployed
-base_url: http://leugim.co
+base_url: http://emiguelt.github.com
 
 google_analytics:
-  domain: leugim.co
+  domain: emiguelt.github.com
   site_id: UA-46201600-1
 
 # currently used by logo
