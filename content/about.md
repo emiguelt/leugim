@@ -46,7 +46,7 @@ I speak Spanish (native), Portuguese (Celpe Intermediate-Higher level) and Engli
 
 * Software Engineering, Design Patterns, System architectures
 * Web applications
-* Java
+* Java, Scala
 * Javascript, NodeJS, Backbonejs
 * Agile methodologies
 * Lean approach
@@ -54,7 +54,8 @@ I speak Spanish (native), Portuguese (Celpe Intermediate-Higher level) and Engli
 * Open source technologies
 
 ## Employment History
-* (Dec 2013 - Current) - Senior developer II at <a href='http://www.stefanini.com/en' target='_blank'>Stefanini</a> - Colombia. Working with Java (JEE) for Tigo/Millicom Latinoamerica
+* (May 2014 - Current) Software engineer at <href a="http://www.bizagi.com/" target="_blank">BizAgi</href> - Colombia. Working with Java for web platforms.
+* (Dec 2013 - April 2014) - Senior developer II at <a href='http://www.stefanini.com/en' target='_blank'>Stefanini</a> - Colombia. Working with Java (JEE) for Tigo/Millicom Latinoamerica
 * (Mar 2012 - Set 2013) - Software developer at <a href='http://www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
 * (Oct 2011 - Fev 2012) - Developer at Maritaca Project (UNIFESP). A telehealth system for the Family-Health program of the Brazilian Government.
 * (Ago 2011 - Sep 2011) - Developer at <a href='http://www.organia.com.br' target='_blank'>Organia</a>. Working on Multimedia software based in Qt/C++.
@@ -67,7 +68,7 @@ __GNU Linux__ (My preference, currently: Ubuntu), Windows (If anymore)
 ### Software development (Currently)
 
 * Programming Languages: Java, Javascript
-* Data: PostgreSQL, CouchBase, Cassandra
+* Data: PostgreSQL, CouchBase
 * Web: Spring Framework, Stripes (a Spring-MVC-like framework), Jsp, jQuery, Jade, Bootstrap, NinjaFramework, Backbone.js, NodeJS, JSF, JMS
 * Tools: Eclipse, Vim, Netbeans
 * Scripting: Bash
@@ -76,7 +77,7 @@ __GNU Linux__ (My preference, currently: Ubuntu), Windows (If anymore)
 
 ### In the past I worked with:
 * C, C++, Qt,  Smalltalk
-* MySql, Cassandra
+* MySql, Cassandra, Oracle DB
 * Java J2EE (1.4), JMS
 * Qt for mobile (Nokia), WRT (Symbian), Java ME, Android (Basic)
 * Medical images: DICOM protocol
