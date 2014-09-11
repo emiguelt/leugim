@@ -71,7 +71,8 @@ Then it could be invoked in the _render_ method to generate the HTML
 
 
 ### Deploy
-The _Makefile_ defines how the application is organized on the client side. 
+The _Makefile_ defines how the application is organized on the client side.
+
     - deploy
     |- index.html //Jade-generated
     |- css
@@ -84,5 +85,6 @@ The _Makefile_ defines how the application is organized on the client side.
        |- views //backone
        |- main.js // require config, app start
        |- common.js //utils
+
 
 That's all. For more details about the implementation, please check the full example <a href='https://github.com/emiguelt/javascriptLearning/tree/master/backbone/dbba_todos_requirejs' target='_blank'>here</a>. 
