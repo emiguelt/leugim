@@ -1,5 +1,6 @@
 #! /bin/bash
+rm -rf output
 nanoc
 cp -r ./static/* ./output/ -u 
-cp ../emiguelt.github.io/.git output/
-rsync -vr --size-only --delete-excluded output/ ../emiguelt.github.io/
+cp -r ../emiguelt.github.io/.git output/
+rsync -vr --delete-excluded output/ ../emiguelt.github.io/
