@@ -1,7 +1,5 @@
 #! /bin/bash
-export PATH=$PATH:/var/lib/gems/1.8/bin
-cd /home/emiguel/svn_home/src/webpage/
-nanoc3 co #--force
+nanoc
 cp -r ./static/* ./output/ -u 
-cd output/
-sitecopy --update mysite
+cp ../emiguelt.github.io/.git output/
+rsync -vr --size-only --delete-excluded output/ ../emiguelt.github.io/

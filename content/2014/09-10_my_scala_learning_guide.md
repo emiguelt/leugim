@@ -26,3 +26,5 @@ This article is still in development, so the contents will change in any moment.
  1. **Follow** the Functional programming principles in Scala online course at <a href='https://www.coursera.org/course/progfun' target='_blank'>Coursera</a>
 
 ## 3. Resources to choose next step
+
+ * Ninety nine scala problems <a href+"http://aperiodic.net/phil/scala/s-99/" target="_blank">Go</a>
