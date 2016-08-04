@@ -1,10 +1,6 @@
 ---
 kind: article
-<<<<<<< HEAD
-title: My Scala learning guide - In progress...
-=======
 title: My Scala learning guide - OBSOLETE
->>>>>>> new post, FP learning
 create_at: 2014/09/10
 excerpt: A guide that collect my experiences learning the Scala programming language
 tags: [scala, programming, guide, java]
