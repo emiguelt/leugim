@@ -22,7 +22,7 @@ Hi, Welcome to my website!!!. This is just a site with basic informatión about 
 <a href="https://github.com/emiguelt" target="_blank" title="GitHub"><img src="/assets/images/github.gif" alt="GitHub"/></a>
 <a href="http://br.linkedin.com/in/emigueltg" target="_blank" title="LinkedIn"><img src="/assets/images/linkedin.gif" alt="LikedIn"/></a>
 
-I'm Edwin Miguel Triana. I was born in Colombia. I'm a System Engineer (<a href='http://www.unal.edu.co' target='_blank'>UNAL</a> - Colombia), MSc in Computer Science at <a href='www.usp.br' target='_blank'>USP</a> - Brazil.
+I'm Edwin Triana. I was born in Colombia. I'm a System Engineer (<a href='http://www.unal.edu.co' target='_blank'>UNAL</a> - Colombia), MSc in Computer Science at <a href='www.usp.br' target='_blank'>USP</a> - Brazil.
 
 # I little more about me...
 
@@ -52,10 +52,13 @@ I speak Spanish (native), Portuguese (Celpe Intermediate-Higher level) and Engli
 * Lean approach
 * Web Intelligence, User segmentation, recommendations, etc.
 * Open source technologies
+* Functional programming
+* Lisp, Clojure
 
 ## Employment History
-* (May 2014 - Current) Software engineer at <href a="http://www.bizagi.com/" target="_blank">BizAgi</href> - Colombia. Working with Java for web platforms.
-* (Dec 2013 - April 2014) - Senior developer II at <a href='http://www.stefanini.com/en' target='_blank'>Stefanini</a> - Colombia. Working with Java (JEE) for Tigo/Millicom Latinoamerica
+* (Aug 2015 - current) - Software team lead at <a href='www.bizagi.com' target='_blank'>Bizagi</a>
+* (April 2014 - current) - Software developer at <a href='www.bizagi.com' target='_blank'>Bizagi</a>. Working with Java, in feature development and maintenance for a Web app.
+* (Dec 2013 - March 2014) - Senior developer II at <a href='http://www.stefanini.com/en' target='_blank'>Stefanini</a> - Colombia. Working with Java (JEE) for Tigo/Millicom Latinoamerica
 * (Mar 2012 - Set 2013) - Software developer at <a href='http://www.airu.com.br' target='_blank'>Airu</a> - Rocket Internet 
 * (Oct 2011 - Fev 2012) - Developer at Maritaca Project (UNIFESP). A telehealth system for the Family-Health program of the Brazilian Government.
 * (Ago 2011 - Sep 2011) - Developer at <a href='http://www.organia.com.br' target='_blank'>Organia</a>. Working on Multimedia software based in Qt/C++.
