@@ -1,0 +1,104 @@
+---
+:content/2010/02-25-captura_audio_javame.md:
+  :created_at: 2010/02/25
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: c2d51df0f09805d22605382970169ac305686d10
+:content/2011/10-21-cassandra_hector.md:
+  :created_at: 2011/10/21
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 4f6b1d4ec2989235dd4985816fc5fca80b3d25e1
+:content/2012/03-18-stripes_summary.md:
+  :created_at: 2011/04/25
+  :updated_at: 2012-04-08 11:12:00.000000000 -05:00
+  :digest: a5ce531e028987825e1dad6a3e81322b60e28624
+:content/2010/01-04-vpn_con_ssh.md:
+  :created_at: 2010/01/04
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 840a48e91723707e0911d136cab2e70f4b5e2b43
+:content/2011/04-25-ejemplo_flyway.md:
+  :created_at: 2011/04/25
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: aa760b2fd649b7416e8a5436e0de4c2a194c1900
+:content/2011/04-04-tips_mobile.md:
+  :created_at: 2011/04/04
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 0003c010d2481a67e253bc6ea4d1672055d27fca
+:content/2011/11-06-cluster_apache_tomcat_cassandra.md:
+  :created_at: 2011/11/06
+  :updated_at: 2011-10-26 17:05:14.000000000 -05:00
+  :digest: 71fce2550fc014a6b42367f1233f0820f7e722e6
+:content/2012/04-08-stripes_summary.md:
+  :created_at: 2012/04/08
+  :updated_at: 2012-04-08 15:11:19.000000000 -05:00
+  :digest: 89ba6bc07291095f75adb1cc7132e7c10909e379
+:content/tips/mvn_cmds.md:
+  :created_at: 2011/10/21
+  :updated_at: 2011-11-28 21:36:11.000000000 -05:00
+  :digest: d431a3d02f848f5932e7bc6ea4997fad0f1761a2
+:content/tips/siteadmin.md:
+  :created_at: 2011/07/19
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 5f1ed6f409ecd919c865a7f215f328d52e49cec7
+:content/tips/cmds.md:
+  :created_at: 2011/10/21
+  :updated_at: 2012-06-09 17:12:55.000000000 -05:00
+  :digest: 701c695b8140d0a9edc06e0cd3ddd2ba6edcadd3
+:content/2012/04-08-spring_summary.md:
+  :created_at: 2012/04/08
+  :updated_at: 2012-05-20 17:26:21.000000000 -05:00
+  :digest: 5c727d52e03645c7099a9b170cf4122bae34a6bf
+:content/2012/05-20_Spring_summary_p2.md:
+  :created_at: 2012/04/08
+  :updated_at: 2012-06-09 14:21:21.000000000 -05:00
+  :digest: 8322ff21fd0f0bdb2ec44850c60069cfc1fc3be3
+:content/2012/03-18-wdt-p01.md:
+  :created_at: 2011/04/25
+  :updated_at: 2012-03-18 17:13:16.000000000 -05:00
+  :digest: fa7e5fea04a88b7982fa2ec39148b52d048e4a16
+:content/2011/04-24-intro_android.md:
+  :created_at: 2011/04/24
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 9809ed3f8d666ee531b3a0eb5f68b5f3c01ff586
+:content/2011/10-24-cluster_cassandra_ptbr.md:
+  :created_at: 2011/10/24
+  :updated_at: 2011-10-26 14:40:06.000000000 -05:00
+  :digest: 3e9e57738d1326f624d87500ffe1a14250282982
+:content/2012/03-18-wdt_p01.md:
+  :created_at: 2011/04/25
+  :updated_at: 2012-04-03 06:39:19.000000000 -05:00
+  :digest: aeaec1e14ccc1559afa97e169d889fe3992ec5f7
+:content/2011/04-27-ejemplo_c5_db.md:
+  :created_at: 2011/04/25
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 878e570eb8b17d1d4ed197a444c92320ae5c1ba7
+:content/2009/12-19-creando_sitio.md:
+  :created_at: 2009/12/19
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: e4a3c6cb7ef33448aad6e7fb4a85ee34e7a42bfc
+:content/2011/04-05-cpp_efectivo.md:
+  :created_at: 2011/04/05
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: 7bf795ea75cd2ec553639725230eb5c4cc111747
+:content/2011/10-21-cassandra_cli.md:
+  :created_at: 2011/10/21
+  :updated_at: 2011-10-24 20:46:47.000000000 -05:00
+  :digest: b16a89af204f1ee3a77799f0c071ac4e820052ba
+:content/2013/11-30_jade_backbone.md:
+  :created_at: 2013/11/30
+  :updated_at: 2013-12-02 10:34:01.543815238 -05:00
+  :digest: 7c09f8c8e89116b5acb02e2a160b738e8f60567a
+:content/2016/08-01_functional_programming_learning_path.md:
+  :created_at: 2016/08/01_functional_programming_learning_path
+  :updated_at: 2016-08-03 18:59:03.274362544 -05:00
+  :digest: !binary |-
+    OWU3OTk4MTljMWEyYjM3ZGYxM2U1Y2I1OWJhMGUwNDhmMzEyZDA4NA==
+:content/2016/08-03_configuring_qt_environment_with_googletests.md:
+  :created_at: 2016/08/03_configuring_qt_environment_with_googletests
+  :updated_at: 2016-08-03 18:59:27.718273860 -05:00
+  :digest: !binary |-
+    MGZhMzM2ZDUwMjBjZTcxODIyYTc1Y2RjNzM4ZDMwNWE4MGVlOGM0Nw==
+:content/2014/09-10_my_scala_learning_guide.md:
+  :created_at: 2014/09/10_my_scala_learning_guide
+  :updated_at: 2016-07-27 22:53:22.299251848 -05:00
+  :digest: !binary |-
+    MjEzMGZhNmY3OWMyNGIyYWUyMWQ0NzFmZjhiYzIxNTBmODE3MTQ4ZQ==
