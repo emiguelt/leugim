@@ -33,7 +33,10 @@ __IN PROGRESS...__
 ## Testing signals & slots
 * http://stackoverflow.com/questions/33829949/how-to-use-qtimers-in-googletest
 * http://stackoverflow.com/questions/35509374/qt-test-how-to-stop-execution-when-a-signal-is-emitted
-*
+
+
+## Qt
+* Connecting C++ & Qml (Signals & slots): https://andrew-jones.com/blog/qml2-to-c-and-back-again-with-signals-and-slots/
 ## Known problems
 
 * Executing tests from console, not from IDE
