@@ -43,9 +43,9 @@ Why now?
 
 # PART II
 
-https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code
+`https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code`
 
-Source code: https://github.com/emiguelt/funprog/tree/master/notesOnReactive
+*Source code*: `https://github.com/emiguelt/funprog/tree/master/notesOnReactive`
 
 _Reactive programming_ is composed of a sequence of _events_, a _publisher_ and a _suscriber_. The sequence of events are also called _Streams_.
 
@@ -72,3 +72,25 @@ In _ProjectReactor_ a publisher is a *Flux*  (_Observable_ in RxJava)
     flux.subscribe() //basic subscription, no listeners
     flux.subscribe(System.out::println())  //onNext listener
     flux.subscribe(new Subscriber(){...impl...}) //custom subscriber
+
+### Batching
+
+The _Subscription_ could be used to control the Flux flow, for example to control the number of requests.
+
+    flux.subscribe(new Subscriber(){
+      @Override
+      public void onSubscribe(Subscription subs){
+        subs.request(2);
+      }
+    }
+
+Since it is a very common used pattern, there is _subscribe()_ method for that
+
+    Flux.just("red", "white", "flue")
+      .log()
+      .map(String::toUpperCase)
+      .subscribe(null, 2);
+
+### Concurrent processing
+
+
