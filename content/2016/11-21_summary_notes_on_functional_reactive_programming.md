@@ -92,5 +92,10 @@ Since it is a very common used pattern, there is _subscribe()_ method for that
       .subscribe(null, 2);
 
 ### Concurrent processing
+_Reactor_ optimizes the use of threads and give us the control of the async processing exposing some configurer methods, for examploe `Flux.subscribeOn(Schedulers.parallel())`
 
+`Schedulers.parallel()` will send the flow processing to a brackground thread (just one), to create more threads, it is necessary to specify it by subscriber:
 
+### Extractors: the Dark side
+
+Use extractors to pass from Reactor benefits to blocking side. Use it for Legacy APIs.
