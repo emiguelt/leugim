@@ -14,3 +14,7 @@ deploy: clean	co
 	git add .;\
 	git commit -m "$(COMMENT)";\
 	git push origin master
+
+guard:
+	bundle exec nanoc live
+
