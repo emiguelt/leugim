@@ -1,6 +1,0 @@
-#! /bin/bash
-rm -rf output
-nanoc
-cp -r ./static/* ./output/ -u 
-cp -r ../emiguelt.github.io/.git output/
-rsync -vr --delete-excluded output/ ../emiguelt.github.io/
