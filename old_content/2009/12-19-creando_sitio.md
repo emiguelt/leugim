@@ -4,6 +4,7 @@ title: Creando mi Sitio Web
 created_at: 2009/12/19
 excerpt: Creación de sitio web usando Nanoc
 tags: [nanoc, web]
+draft = true
 ---
 Hola, por fin he decido iniciar formalmente mi sitio web. Ya habia hecho un par de intentos con servicios gratuitos de hosting, sin embargo, siempre exisitian limitaciones en este tipo de servicios, como restriccion de contenidos, estilos, derechos reservados, etc.  Despúes de una gran busqueda me he decidido por usar una página web estática, pero generada automáticamente por una herramienta que me permite manejar agilmente el diseño y recursos, y dedicarme a lo que mas me interesa, el contenido.
 

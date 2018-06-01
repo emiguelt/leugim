@@ -4,6 +4,7 @@ title: Captura de audio para Java ME
 created_at: 2010/02/25
 excerpt: Este es un ejemplo para la captura de audio con J2ME
 tags: [java, javame, mobile, audio]
+draft = true
 ---
 
 Este es un ejemplo para la captura de audio con J2ME. La aplicación está basada en [Voice Recording in J2ME][1], un ejemplo que captura audio por 5 segundos y lo reproduce en la misma aplicación. He adicionado una pequeña modificación para que almacene la captura en la memoria del dispositivo.

@@ -4,6 +4,7 @@ title: Desarrollo de aplicaciones móviles
 created_at: 2011/04/04
 excerpt: Tips para desarrollo de aplicaciones móviles.
 tags: [mobile, nokia]
+draft = true
 ---
 
 Diseño de aplicaciones

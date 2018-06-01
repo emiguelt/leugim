@@ -6,6 +6,7 @@ updated_at: 2011/04/12
 excerpt: Recomendaciones para desarrollo en Lenguaje C++
 tags: [c++]
 publish: false
+draft = true
 ---
 
 Durante el desarrollo de mi carrera he tenido que aprender diversos lenguajes de programación. En muchos casos he aprendido conceptos básicos y he dejado de lado aspectos importantes que durante el desarrollo de una aplicación pueden hacer diferencia, ya sea en tiempo de ejecución o uso de recursos.

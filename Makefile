@@ -1,15 +1,16 @@
-OUTPUT=./output
+OUTPUT=./public
 COMMENT=$(shell git log -1 --oneline)
-co:
-	nanoc co
-	cp -r ./static/* $(OUTPUT)/ -u
+GENERATEDDIR=../emiguelt-generated
+
+build:
+	hugo
 
 clean:
 	rm -rf $(OUTPUT)
 
-deploy: clean	co
-	cp -r $(OUTPUT)/* ../emiguelt/
-	cd ../emiguelt/;\
+deploy: clean	build
+	cp -r $(OUTPUT)/* $(GENERATEDDIR)
+	cd $(GENERATEDDIR);\
 	echo $(COMMENT);\
 	git add .;\
 	git commit -m "$(COMMENT)";\

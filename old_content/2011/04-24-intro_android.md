@@ -5,6 +5,7 @@ created_at: 2011/04/24
 excerpt: Introduciendo Android, el SO para móviles de Google
 tags: [android, mobile, google]
 updated_at: 2011/04/24
+draft = true
 ---
 
 Este post tiene por objetivo dar un vistazo general de __Android__. Dar definiciones básicas sobre la plataforma y pasos iniciales para el desarrollo de aplicaciones para esta plataforma.
