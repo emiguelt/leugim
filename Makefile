@@ -9,6 +9,7 @@ clean:
 	rm -rf $(OUTPUT)
 
 deploy: clean	build
+	cp ../CNAME $(GENERATEDDIR)/
 	cp -r $(OUTPUT)/* $(GENERATEDDIR)
 	cd $(GENERATEDDIR);\
 	echo $(COMMENT);\
