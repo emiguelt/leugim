@@ -6,7 +6,7 @@ excerpt: The books I read during 2018 with a little summary/opinion
 tags: [books, 2018]
 publish: true
 ---
-# Deep Work - Cal Newport
+# <a href="http://calnewport.com/books/deep-work/" target="_blank">Deep Work</a> - Cal Newport
 -----------------------
 Excelent book for people looking how to improve their focus on knowledge tasks and get things done.
 
@@ -26,3 +26,19 @@ I have extracted some ideas/phrases/principles/rules I found relevant for me and
 ## References to other books/articles
 
 * The Intellectual Life [Sertillanges]
+
+# <a href="https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way" target="_blank">The Obstacle is the Way</a> - Ryan Holiday
+---------------------------------------
+
+Seeing obstacles as challenges give us a different mindset to reach our objectives. This book presents excelent examples/hints to make things happen and do not die in the process 
+
+## Some ideas
+* We must try:
+ * To be objective
+ * To control emotions and keep an even keel
+ * To choose to see the good in a situation
+ * To steady our nerves
+ * To ignore what disturbes or limits others
+ * To place things in perspective
+ * To rever to the present moment
+ * To focus on what can be controlled
