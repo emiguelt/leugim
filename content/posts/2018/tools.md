@@ -9,9 +9,9 @@ This entry coverages some tools I found useful during my work in software develo
 |Tool|Description|OS |Free|
 |----|-----------|:---:|:----:|
 <a href="https://dbeaver.io/" target="_blank">DBeaver</a>      | as its site says, a Universsal Database tool|WL|y
-<a href="https://conemu.github.io/" target="_blank">ConEmu</a> | excellent terminal emulator for Windows, something like "tmux" (not as sophisticated), and compatible wit many terminals (cmd, powershel, git-bash :), etc) |W|y
+<a href="https://conemu.github.io/" target="_blank">ConEmu</a> | excellent terminal emulator for Windows, something like "tmux" (not as sophisticated), and compatible with many terminals (cmd, powershel, git-bash :), etc) |W|y
 <a href="https://keepass.info/" target="_blank">KeePass</a>    | tool to manage your passwords in secure way|WL|y
-
+<a href="http://www.softwareok.com/" target="_blank">Q-Dir</a> | file explorer with support to splits and tabs | W | y
 ### Conventions
 * OS (Operating System):
  * Linux: L, Windows: W
