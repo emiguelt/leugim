@@ -42,3 +42,5 @@ Seeing obstacles as challenges give us a different mindset to reach our objectiv
  * To place things in perspective
  * To rever to the present moment
  * To focus on what can be controlled
+* Follow the process: face a problem/obstacle one step at a time
+
