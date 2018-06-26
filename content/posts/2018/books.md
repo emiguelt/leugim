@@ -13,6 +13,7 @@ Excelent book for people looking how to improve their focus on knowledge tasks a
 The book is divided in two main parts, in the first one, the author justifies why it is important to be focus and having a well structured strategy to reach our objective. The second part presents a set of 4 rules to follow in order to improve our performance in the activities we are interested in.
 
 ## Some ideas
+
 I have extracted some ideas/phrases/principles/rules I found relevant for me and maybe are interested for you.
 
 * Being a always-connected person is nosive for your focus and to acomplish your objetives, in general, any non-planned distraction affects negatively directly our performance
@@ -33,6 +34,7 @@ I have extracted some ideas/phrases/principles/rules I found relevant for me and
 Seeing obstacles as challenges give us a different mindset to reach our objectives. This book presents excelent examples/hints to make things happen and do not die in the process 
 
 ## Some ideas
+
 * We must try:
  * To be objective
  * To control emotions and keep an even keel
@@ -42,5 +44,12 @@ Seeing obstacles as challenges give us a different mindset to reach our objectiv
  * To place things in perspective
  * To rever to the present moment
  * To focus on what can be controlled
+* Focus on the moment, not the monsters that may or may not be up ahead
+* Think different. Our perceptions determine what we are and are not capable. We don't control reality, our perceptions do influence it
+* Obstacles are **Oportunities** to learn/improve/make it better
+* Once you see the world as it is, you must act
+* Try, try and try, but not doing the same, analyze results, think different and try something new. Be persistent
+* Facing obstacles, look for weak points
+* Even failing, your benefit from learning. Every fail is an oportunity to learn and be better
 * Follow the process: face a problem/obstacle one step at a time
-
+* Do your job, do it right. Do hard work, honestly, and helping others as best as we can
