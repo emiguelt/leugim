@@ -2,3 +2,4 @@ baseURL = "http://emiguelt.mysu.co/"
 languageCode = "en-us"
 title = "Edwin Miguel, My Site"
 theme = "er"
+enableGitInfo = true
