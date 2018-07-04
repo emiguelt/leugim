@@ -53,6 +53,7 @@ Seeing obstacles as challenges give us a different mindset to reach our objectiv
 * Even failing, your benefit from learning. Every fail is an oportunity to learn and be better
 * Follow the process: face a problem/obstacle one step at a time
 * Do your job, do it right. Do hard work, honestly, and helping others as best as we can
+* Be pragmatic, if you have a mission, make the imposible to acomplish it. If following the rules you find obstacles, try other ways to reach your target.
 
 # <a href="https://nostarch.com/howlinuxworks2" target="_blank">How Linux works</a> - Brian Ward
 ------------------------------------
@@ -61,3 +62,5 @@ I've worked in software development using linux since university, but I never re
 This book presents a good introduction-to-middle information about Linux, how this OS is composed and how its components interacts.
 
 It starts from Basic to advanced in a good way that lets the reader to understand while advances in the reading.
+
+* **Chapter 1**: Introduction to Kernel and basic concepts (memory management, processes, user space, exec, fork, syscalls, etc)
