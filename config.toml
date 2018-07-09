@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Edwin Miguel, My Site"
 theme = "er"
 enableGitInfo = true
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
