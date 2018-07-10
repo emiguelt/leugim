@@ -5,3 +5,4 @@ theme = "er"
 enableGitInfo = true
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
+disqusShortname = "emiguelwebpage"
