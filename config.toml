@@ -6,3 +6,4 @@ enableGitInfo = true
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 disqusShortname = "emiguelwebpage"
+googleAnalytics  = "UA-46201600-1"
