@@ -24,7 +24,7 @@ select * from pg_stat_activity where datname = '<SCHEMA>'
 
 # SSH
 
-* Permissions for *.ssh* folder and *authorized_keys* file for automatic login with certifcate
+* Permissions for *.ssh* folder and *authorized_keys* file for automatic login with certificate
 
 ```bash
 chmod 700 ~/.ssh
