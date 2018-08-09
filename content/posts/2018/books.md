@@ -3,7 +3,7 @@ kind: article
 title: Books I read in 2018
 date: 2018-01-18
 excerpt: The books I read during 2018 with a little summary/opinion
-tags: [books, 2018]
+tags: [books, 2018, Newport, Holiday, Ward, Rensselaer]
 publish: true
 ---
 # <a href="http://calnewport.com/books/deep-work/" target="_blank">Deep Work</a> - Cal Newport
@@ -66,3 +66,10 @@ This book presents a good introduction-to-middle information about Linux, how th
 It starts from Basic to advanced in a good way that lets the reader to understand while advances in the reading.
 
 * **Chapter 1**: Introduction to Kernel and basic concepts (memory management, processes, user space, exec, fork, syscalls, etc)
+
+# <a href="http://www.psitek.net/pages/PsiTekTMSContents.html" target="_blank">The magic story</a> - Frederick Van Rensselaer Dey
+-----------------------------------------
+
+Very short book about having success in the live. The book is a first-person story about how a man become rich, then poor and again rich, and gives six lessons to change the reader's life.
+
+"_It is claimed that many who read or hear this story almost immediately begin to have good fortune so it is worth a few minutes of your time to find out if it works for you._"
