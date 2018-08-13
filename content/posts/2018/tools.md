@@ -16,6 +16,8 @@ This entry coverages some tools I found useful during my work in software develo
 <a href="https://windirstat.net/" target="_blank">WinDirStat</a> | Tool to analyze hard disk to remove big files, there is KDirStat for Linux | WL | y
 <a href="https://conda.io" target="_blank">Conda</a> | dependency & environment management for many languages | WL | y
 <a href="https://github.com/joeyespo/grip" target="_blank">Grip</a> | render markdown files locally | WL | y
+<a href="https://github.com/relaxng/jing-trang.git" target="_blank">trang</a> | java project to generate xsd from xml samples | WL | y
+
 ### Conventions
 * OS (Operating System):
  * Linux: L, Windows: W

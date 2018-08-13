@@ -66,6 +66,7 @@ This book presents a good introduction-to-middle information about Linux, how th
 It starts from Basic to advanced in a good way that lets the reader to understand while advances in the reading.
 
 * **Chapter 1**: Introduction to Kernel and basic concepts (memory management, processes, user space, exec, fork, syscalls, etc)
+* **Chapter 2**: Shell, basic input/output, basic commands (cat, ls)
 
 # <a href="http://www.psitek.net/pages/PsiTekTMSContents.html" target="_blank">The magic story</a> - Frederick Van Rensselaer Dey
 -----------------------------------------
