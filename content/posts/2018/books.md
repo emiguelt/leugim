@@ -56,6 +56,9 @@ Seeing obstacles as challenges give us a different mindset to reach our objectiv
 * Be pragmatic, if you have a mission, make the impossible to accomplish it. If following the rules you find obstacles, try other ways to reach your target.
 * To overthrow an obstacle does not need a direct action always, you can wait to go back to see other options or make the obstacle smaller
 * Focus is what really matters, that is, no necessarily in what the people thinks or waits, but what you need to reach your target
+* Sometimes we cannot reach a target, we will fail. Manage your expectations
+* Protect your inner self, submit to a greater cause
+* Be prepared for obstacles by exercising yourself, physically and mentally. Do that before obstacles come
 
 # <a href="https://nostarch.com/howlinuxworks2" target="_blank">How Linux works</a> - Brian Ward
 ------------------------------------
