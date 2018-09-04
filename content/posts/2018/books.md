@@ -59,6 +59,9 @@ Seeing obstacles as challenges give us a different mindset to reach our objectiv
 * Sometimes we cannot reach a target, we will fail. Manage your expectations
 * Protect your inner self, submit to a greater cause
 * Be prepared for obstacles by exercising yourself, physically and mentally. Do that before obstacles come
+* Always be prepared for disruption. Think in all bad things could happen in your project or in the way to reach your target. Think in what you can do to overcome the problem and go ahead to your objective (Anticitpation)
+* Accept the life as it is. Acquiescence. Accept the things you cannot change (situations, persons, rules, etc) and look for the way to accomplish your task. In a bad situacion, see the good before than the bad. The things could be worse.
+* Love what you do, including the good and de bad things.
 
 # <a href="https://nostarch.com/howlinuxworks2" target="_blank">How Linux works</a> - Brian Ward
 ------------------------------------
