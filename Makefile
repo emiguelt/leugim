@@ -9,6 +9,9 @@ clean:
 	rm -rf $(OUTPUT)
 
 deploy: clean	build
+	cd $(GENERATEDDIR);\
+	git pull origin master
+	cd -
 	cp ../CNAME $(GENERATEDDIR)/
 	cp -r $(OUTPUT)/* $(GENERATEDDIR)
 	cd $(GENERATEDDIR);\

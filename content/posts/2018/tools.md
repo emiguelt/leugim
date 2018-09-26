@@ -17,6 +17,7 @@ This entry coverages some tools I found useful during my work in software develo
 <a href="https://conda.io" target="_blank">Conda</a> | dependency & environment management for many languages | WL | y
 <a href="https://github.com/joeyespo/grip" target="_blank">Grip</a> | render markdown files locally | WL | y
 <a href="https://github.com/relaxng/jing-trang.git" target="_blank">trang</a> | java project to generate xsd from xml samples | WL | y
+<a href="https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer" target="_blank">Process Explorer</a> | Check processes in Windows and which one has opened an specific file | W | y
 
 ### Conventions
 * OS (Operating System):
