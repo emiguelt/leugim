@@ -80,3 +80,12 @@ It starts from Basic to advanced in a good way that lets the reader to understan
 Very short book about having success in the live. The book is a first-person story about how a man become rich, then poor and again rich, and gives six lessons to change the reader's life.
 
 "_It is claimed that many who read or hear this story almost immediately begin to have good fortune so it is worth a few minutes of your time to find out if it works for you._"
+
+# <a href="https://www.amazon.com.br/Hard-Thing-about-Things-Building/dp/0062273205" target="_blank">The hard things about hard things</a>
+
+**Theme**: Management
+
+## Ideas
+
+* There are no shortcuts to knowledge, especially knowledge gained from personal experience. Following wisdom and relying on shortcuts can be worse than knowing nothing at all
+* The simple existence of an alternate, pausible scenario is often all that's needed to keep hope alive among a worried workforce
