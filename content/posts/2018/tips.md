@@ -30,3 +30,16 @@ select * from pg_stat_activity where datname = '<SCHEMA>'
 chmod 700 ~/.ssh
 chmod 600 ~/.ssh/authorized_keys
 ```
+
+# GIT
+
+* Set credentials cache in windows:
+
+```bash
+git config --global credential.helper wincred
+```
+
+# VPN
+
+* Command line forticlient: OpenFortiVpn
+
