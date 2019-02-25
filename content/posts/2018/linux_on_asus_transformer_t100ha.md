@@ -1,7 +1,7 @@
 ---
 title: "Linux on asus transformer T100HA"
 date: 2018-09-26T07:33:48-05:00
-tags: [linux asus ubuntu]
+tags: [linux, asus, ubuntu]
 ---
 
 Problems found installing  **\*ubuntu 18.04/18.10** on an Asus Transformer T100HA
@@ -32,5 +32,18 @@ Problems found installing  **\*ubuntu 18.04/18.10** on an Asus Transformer T100H
     EndSection
 ```
 
+- The backlight will work with ctrl+f10 and ctrl+f11 (Pending, change to fn+f5 and fn+f6 keys)
 
+### Enable autorotation
+
+* Identify the display ID: Execute `xrandr` and check the name, for Asus T110AH is DSI1
+* Identify the touchscren ID
+  * Execute `xinput`
+  * Identify all *slave pointer* devices
+  * You can disable/enable de device and touch the display to test if is the correct device: `xinput disable <ID>`. To re-enable run `xinput enable <ID>`
+  * Once you have identified the device, use the ID in the script
+  * The Asus touchscreen name is: _SIS0457:00 0457:11ED_
+* Copy following script and configure to start in the startup:
+
+{{< gist emiguelt 9d37c796d8cfc820e03b3fcaa53da309 >}}
 
