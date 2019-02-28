@@ -36,7 +36,7 @@ Problems found installing  **\*ubuntu 18.04/18.10** on an Asus Transformer T100H
 
 ### Enable autorotation
 
-* Identify the display ID: Execute `xrandr` and check the name, for Asus T110AH is DSI1
+* Identify the display ID: Execute `xrandr` and check the name, for Asus T101H is DSI1
 * Identify the touchscren ID
   * Execute `xinput`
   * Identify all *slave pointer* devices
